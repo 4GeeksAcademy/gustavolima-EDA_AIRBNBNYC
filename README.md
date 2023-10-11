@@ -21,12 +21,15 @@ We get a better hold of our data, and can immediately draw few conclusions. It's
 Upon doing Univariate analysis, next step will be Multivariate Analysis on the Numerical, Categorical and Numerica-Categorial domain as seen here: 
 
 Multivariate Numeric of the Data
+
 <img src="https://github.com/4GeeksAcademy/gustavolima-EDA_AIRBNBNYC/blob/main/assets/multinum.png" width="500">
 
 Multivariate Categorical of the Data
+
 <img src="https://github.com/4GeeksAcademy/gustavolima-EDA_AIRBNBNYC/blob/main/assets/multicat.png" width="500">
 
 Multivariate Numeric-Categorical of the Data
+
 <img src="https://github.com/4GeeksAcademy/gustavolima-EDA_AIRBNBNYC/blob/main/assets/catnum.png" width="500">
 
 This last step, will open even more the data, to understand what correlates to what, so we can withhold a better sense of what the machine might be able to do.  All these graphics and understanding them will allow to properly understand the data but also know where to work the data looking at the context of the problem. The way data is distributed, the statistical information can and will dictate many aspects on how the model will perform. 
